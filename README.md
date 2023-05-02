@@ -1,7 +1,5 @@
 # random_pictures
 
 A new Flutter project.
-picture 1
-![Screenshot_1680358778](https://user-images.githubusercontent.com/115031668/235634673-86e2b90e-3d37-452e-8b3e-79c7e78a86ef.png)
-picture 2
-![Screenshot_1680358784](https://user-images.githubusercontent.com/115031668/235634969-2668d868-7f5b-4208-aac3-8547a214072b.png)
+＜img src="![Screenshot_1680358778](https://user-images.githubusercontent.com/115031668/235634673-86e2b90e-3d37-452e-8b3e-79c7e78a86ef.png)" width="500" height="300"＞
+＜img src="![Screenshot_1680358784](https://user-images.githubusercontent.com/115031668/235634969-2668d868-7f5b-4208-aac3-8547a214072b.png)" width="500" height="300"＞
